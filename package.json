@@ -1,0 +1,12 @@
+{
+  "name": "pricelist-to-jack-autopricer",
+  "version": "1.0.0",
+  "description": "- getschema.js - Gets a current copy of the TF2 Schema and saves it locally as \"schema.json\"",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tf2autobot/tf2-schema": "^4.3.0",
+    "@tf2autobot/tf2-sku": "^2.0.4",
+    "fs": "^0.0.1-security"
+  }
+}
